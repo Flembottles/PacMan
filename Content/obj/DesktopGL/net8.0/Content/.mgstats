@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/CSharpProjects/pacman/Content/eat_dot_0.wav","C:/CSharpProjects/pacman/Content/bin/DesktopGL/Content/eat_dot_0.xnb","SoundEffectProcessor","SoundEffectContent",7976,8037,19.810913
+"C:/CSharpProjects/pacman/Content/eat_dot_1.wav","C:/CSharpProjects/pacman/Content/bin/DesktopGL/Content/eat_dot_1.xnb","SoundEffectProcessor","SoundEffectContent",8000,8061,0.4102356
+"C:/CSharpProjects/pacman/Content/PacMaze.png","C:/CSharpProjects/pacman/Content/bin/DesktopGL/Content/PacMaze.xnb","TextureProcessor","Texture2DContent",851,222293,0.2711555
+"C:/CSharpProjects/pacman/Content/PacSheet.png","C:/CSharpProjects/pacman/Content/bin/DesktopGL/Content/PacSheet.xnb","TextureProcessor","Texture2DContent",5110,674645,0.2948665
